@@ -13,6 +13,6 @@ weeklu study 的文章彙整
 - 詞嵌入(Word Embeddings)的觀念及實作
 - 調整超參數的實作封裝法
 
-並搭配[jupyter nootbook](/tutorial.ipynb)邊講解邊實作。
+並搭配[jupyter nootbook](/Practical-Text-Classification-With-Python-and-Keras/tutorial.ipynb)邊講解邊實作。
 
 原文：[Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
