@@ -1,5 +1,11 @@
-# nlp-basic
+# NLP Basic
+weeklu study 的文章彙整
 
+## 2019 week 15 - Natural Language Processing Made Easy – using SpaCy (​in Python)
+
+
+
+## 2019 week 9 - Practical Text Classification With Python and Keras
 這是一篇轉譯的教學文章，議題有：
 
 - 練習基本的keras自然語言處理方法
