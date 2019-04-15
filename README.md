@@ -1,5 +1,5 @@
 # NLP Basic
-weeklu study 的文章彙整
+公司內部 weeklu study 的文章彙整
 
 ## 2019 week 15 - Natural Language Processing Made Easy – using SpaCy (​in Python)
 
